@@ -29,7 +29,9 @@ root.render(
       <ActionAreaCard name="Miau" art="Katze" krankheit="husten" image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hauskatze_langhaar.jpg/1200px-Hauskatze_langhaar.jpg" />
       <ActionAreaCard name="Bobi" art="Hund" krankheit="gesund" image="https://www.tierschutzbund.de/fileadmin/_processed_/7/c/csm_schwarzer_Hund_auf_Wiese_c_xkunclova-Shutterstock_01_5566a80d25.jpg" />
       <ActionAreaCard name="Shai" art="Vogel" krankheit="gesund" image="https://www.bund-naturschutz.de/fileadmin/_processed_/b/a/csm_Vogel_im_Baum_Fotolia_K.-U._Hae%C3%9Fler_22454253_M_3a628fe5cd.jpg" />
-      <ActionAreaCard name="lala" art="Katze" krankheit="gesund" image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hauskatze_langhaar.jpg/1200px-Hauskatze_langhaar.jpg" />
+      <ActionAreaCard name="Miau" art="Katze" krankheit="husten" image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hauskatze_langhaar.jpg/1200px-Hauskatze_langhaar.jpg" />
+      <ActionAreaCard name="Bobi" art="Hund" krankheit="gesund" image="https://www.tierschutzbund.de/fileadmin/_processed_/7/c/csm_schwarzer_Hund_auf_Wiese_c_xkunclova-Shutterstock_01_5566a80d25.jpg" />
+      <ActionAreaCard name="Shai" art="Vogel" krankheit="gesund" image="https://www.bund-naturschutz.de/fileadmin/_processed_/b/a/csm_Vogel_im_Baum_Fotolia_K.-U._Hae%C3%9Fler_22454253_M_3a628fe5cd.jpg" />
 
     </div>
 
