@@ -1,8 +1,8 @@
-// About.js
+
 import React from 'react';
 
 function About() {
-    return <div>About Page</div>;
+    return <div className='pageTitel'><h1>About Page</h1></div>;
 }
 
 export default About;

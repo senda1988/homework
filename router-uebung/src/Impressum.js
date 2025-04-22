@@ -2,7 +2,7 @@ import React from 'react'
 
 function Impressum() {
     return (
-        <div>Impressum</div>
+        <div className='pageTitel'><h1>Impressum</h1></div>
     )
 }
 

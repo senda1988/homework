@@ -1,8 +1,8 @@
-// Contact.js
+
 import React from 'react';
 
 function Contact() {
-    return <div>Contact Page</div>;
+    return <div className='pageTitel'><h1>Contact Page</h1></div>;
 }
 
 export default Contact;

@@ -20,7 +20,7 @@ root.render(
 
     <Router>
       <Navigation />
-      <About />
+
       <Routes>
         <Route path="/" element={<App />}></Route>
         <Route path="/contact" element={<Contact />}></Route>
