@@ -9,6 +9,7 @@ function Navigation() {
             <Link to="/contact">Contact</Link>
             <Link to="/faq">FAQ</Link>
             <Link to="/impressum">Impressum</Link>
+            <Link to="/wetter">Wttr.in</Link>
         </nav>
     )
 }

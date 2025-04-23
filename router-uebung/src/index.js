@@ -11,6 +11,7 @@ import Contact from './Contact';
 import Impressum from './Impressum';
 import Navigation from './Navigation';
 import About from './About';
+import Wttr from './Wttr';
 
 
 
@@ -27,6 +28,8 @@ root.render(
         <Route path="/about" element={<About />}></Route>
         <Route path="/faq" element={<Faq />}></Route>
         <Route path="/impressum" element={<Impressum />}></Route>
+        <Route path="/wetter" element={<Wttr />}></Route>
+
       </Routes>
     </Router>
 
