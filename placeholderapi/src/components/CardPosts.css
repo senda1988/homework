@@ -1,0 +1,29 @@
+.card-post {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    max-width: 600px;
+}
+
+.card-post:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-post h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: #333;
+    font-size: 1.25rem;
+}
+
+.card-post p {
+    margin: 0;
+    color: #555;
+    line-height: 1.6;
+    font-size: 1rem;
+}
