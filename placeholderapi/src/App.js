@@ -7,7 +7,7 @@ function App() {
   return (
     <>
 
-      <Users></Users>
+      <Posts></Posts>
     </>
   );
 }
