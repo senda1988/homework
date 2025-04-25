@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 
 function UserPosts() {
-    const { id } = useParams();  // Récupère l'ID de l'utilisateur depuis l'URL
+    const { id } = useParams();
     const [posts, setPosts] = useState([]);
 
     useEffect(() => {
@@ -13,10 +13,10 @@ function UserPosts() {
         }
 
         getPosts();
-    }, [id]);  // L'effet se déclenche chaque fois que l'ID de l'utilisateur change
+    }, [id]);
 
     if (posts.length === 0) {
-        return <p>Loading posts...</p>;  // Affiche "Loading posts..." jusqu'à ce que les posts soient récupérés
+        return <p>Loading posts...</p>;
     }
 
     return (
